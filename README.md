@@ -1,5 +1,13 @@
 <h2 align="center">Hi 👋! My name is Albert Kooro and I'm a FullStack Developer Junior.</h2>
 
+<h4>Hello! My name is Albert, a technology enthusiast passionate about software development, seeking new opportunities to grow and contribute to the world of technology.
+
+ I am currently studying Systems Analysis and Development at Cruzeiro do Sul University, where I have gained a foundation in programming concepts and software development. Additionally, I am constantly updating my skills through online courses and personal projects.
+
+I am eager to be part of a dynamic and collaborative team, where I can learn from experienced professionals and contribute to innovative projects. I am open to internship opportunities or junior developer positions, where I can apply my skills and continue to grow professionally.
+
+If you are looking for a committed developer, eager to learn, and ready to tackle challenges, I would love to connect and discuss how I can add value to your team or project!</h4>
+
 ###
 
 <div align="center">
