@@ -43,7 +43,11 @@
 
 <br clear="both">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d7nitcp989sb7g5lrim08bon8&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=148f23&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+<div align="center">
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d7nitcp989sb7g5lrim08bon8&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=148f23&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 <h3 align="left">Skills</h3>
 
