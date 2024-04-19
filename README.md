@@ -1,15 +1,15 @@
 <h2 align="center">Hi 👋! My name is Albert Kooro and I'm a FullStack Developer Junior.</h2>
 
-<h4>Hello! I'm Albert and i'm have 18 years old, a technology enthusiast deeply passionate about software development. I'm actively seeking fresh opportunities to broaden my expertise and make impactful contributions to the realm of technology.
+<h4>Hello! I'm Albert and I'm 18, a technology enthusiast who's deeply passionate about software development. I'm actively seeking for fresh opportunities to broaden my expertise and make impactful contributions to the realm of technology.
 
  
-Presently, I'm pursuing a degree in Systems Analysis and Development at Cruzeiro do Sul University. 
+Lately, I'm pursuing a degree in Systems Analysis and Development at Cruzeiro do Sul University. 
 
-Throughout my academic journey, I've cultivated a robust understanding of programming concepts and software development methodologies. Complementing my studies, I diligently engage in online courses and personal projects to continually refine and expand my skill set.
+Throughout my academic journey, I've cultivated a robust understanding of programming concepts and software development methodologies. Complementing my studies, I deeply engaged in online courses and personal projects to continue refining and expanding my skill set.
 
-I'm eager to immerse myself in a vibrant and collaborative team environment, where I can learn from seasoned professionals and actively contribute to innovative projects. I'm keen on exploring internship opportunities or junior developer positions, where I can leverage my skills and embark on a journey of continuous professional growth.
+I'm eager to immerse myself in a vibrant and collaborative team environment, where I can learn from experient professionals and actively contribute to keep innovating projects. I'm also excited to explore to dive immersively in new opportunities or junior developer positions, in a way that I can upgrade my skills and embark on a journey of continuous knowledge, individual and professional growth.
 
-If you're on the lookout for a dedicated developer who thrives on learning and embraces challenges, I'd be delighted to connect with you. Let's explore how I can bring value to your team or project!</h4>
+If you're looking for a dedicated developer who thrives on learning and embraces challenges, I'd be delighted to connect with you. Let's explore how I can bring value to your team or project!</h4>
 
 ###
 
@@ -48,7 +48,7 @@ If you're on the lookout for a dedicated developer who thrives on learning and e
 ###
 
 <div align="center">
-  <img height="475" src="https://private-user-images.githubusercontent.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0OTczOTksIm5iZiI6MTcxMzQ5NzA5OSwicGF0aCI6Ii83NzczOTMxMS8yNzEzODQ5MzktNGU5ZjQxYWYtNmI1Ny00OWE3LWIxNWEtNzQzMjJlOTZiNGQ3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE5VDAzMjQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5OGExNzQ2MWI3YmJmMjE1ZTY0ODg4NjEzNjI1NjIyNDEwZjY5NmE3ZDllZDBhNzRjOGQxZTQxZjg4YWIzODImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MvfBm3MapfTCJOBBlbZhOl8-hqcknEG3okyudSDWQds"  />
+  <img height="600" src="https://private-user-images.githubusercontent.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0OTczOTksIm5iZiI6MTcxMzQ5NzA5OSwicGF0aCI6Ii83NzczOTMxMS8yNzEzODQ5MzktNGU5ZjQxYWYtNmI1Ny00OWE3LWIxNWEtNzQzMjJlOTZiNGQ3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE5VDAzMjQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5OGExNzQ2MWI3YmJmMjE1ZTY0ODg4NjEzNjI1NjIyNDEwZjY5NmE3ZDllZDBhNzRjOGQxZTQxZjg4YWIzODImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MvfBm3MapfTCJOBBlbZhOl8-hqcknEG3okyudSDWQds"  />
 </div>
 
 ###
