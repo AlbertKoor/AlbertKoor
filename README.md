@@ -1,12 +1,15 @@
 <h2 align="center">Hi 👋! My name is Albert Kooro and I'm a FullStack Developer Junior.</h2>
 
-<h4>Hello! My name is Albert, a technology enthusiast passionate about software development, seeking new opportunities to grow and contribute to the world of technology.
+<h4>Hello! I'm Albert and i'm have 18 years old, a technology enthusiast deeply passionate about software development. I'm actively seeking fresh opportunities to broaden my expertise and make impactful contributions to the realm of technology.
 
- I am currently studying Systems Analysis and Development at Cruzeiro do Sul University, where I have gained a foundation in programming concepts and software development. Additionally, I am constantly updating my skills through online courses and personal projects.
+ 
+Presently, I'm pursuing a degree in Systems Analysis and Development at Cruzeiro do Sul University. 
 
-I am eager to be part of a dynamic and collaborative team, where I can learn from experienced professionals and contribute to innovative projects. I am open to internship opportunities or junior developer positions, where I can apply my skills and continue to grow professionally.
+Throughout my academic journey, I've cultivated a robust understanding of programming concepts and software development methodologies. Complementing my studies, I diligently engage in online courses and personal projects to continually refine and expand my skill set.
 
-If you are looking for a committed developer, eager to learn, and ready to tackle challenges, I would love to connect and discuss how I can add value to your team or project!</h4>
+I'm eager to immerse myself in a vibrant and collaborative team environment, where I can learn from seasoned professionals and actively contribute to innovative projects. I'm keen on exploring internship opportunities or junior developer positions, where I can leverage my skills and embark on a journey of continuous professional growth.
+
+If you're on the lookout for a dedicated developer who thrives on learning and embraces challenges, I'd be delighted to connect with you. Let's explore how I can bring value to your team or project!</h4>
 
 ###
 
