@@ -41,14 +41,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Kooro">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Kooro&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <h3 align="left">Skills</h3>
