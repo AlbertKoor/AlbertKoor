@@ -21,13 +21,15 @@ If you're on the lookout for a dedicated developer who thrives on learning and e
 
 ###
 
-<h3 align="left">Contacts</h3>
+<h3 align="center">Contacts</h3>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+
+
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
@@ -59,13 +61,13 @@ If you're on the lookout for a dedicated developer who thrives on learning and e
   
 </div>
 
-<h3 align="left">Skills</h3>
+<h3 align="center">Skills</h3>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
@@ -92,5 +94,11 @@ If you're on the lookout for a dedicated developer who thrives on learning and e
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="linkedin logo"  />
 </div>
+
+<h3 align="center"> Certificados </h3>
+<div align="center"> <a href="https://media.licdn.com/dms/image/D4D22AQE8J3NRUxDHxw/feedshare-shrink_800/0/1713469692572?e=1716422400&v=beta&t=XlYeYwq5hFmd_JWy3o0wKYHqBwcrQFFhE9_urO7V6h0"> <img alt="certificado JavaScript" src="https://media.licdn.com/dms/image/D4D22AQE8J3NRUxDHxw/feedshare-shrink_800/0/1713469692572?e=1716422400&v=beta&t=XlYeYwq5hFmd_JWy3o0wKYHqBwcrQFFhE9_urO7V6h0" width="259" height="183" /> </a>
+<a href="https://media.licdn.com/dms/image/D4D2DAQHhKEeBkehQVg/profile-treasury-image-shrink_800_800/0/1710215504003?e=1714107600&v=beta&t=8Z3LB6fpwguvKDbcN9dJsd0ZSj2qXuE-DBVPdEedS0c"> <img alt="certificado HTML e CSS" src="https://media.licdn.com/dms/image/D4D2DAQHhKEeBkehQVg/profile-treasury-image-shrink_800_800/0/1710215504003?e=1714107600&v=beta&t=8Z3LB6fpwguvKDbcN9dJsd0ZSj2qXuE-DBVPdEedS0c" width="259" height="183" /> </a>
+<a href="https://media.licdn.com/dms/image/D4D22AQGlw-qoNwDfVA/feedshare-shrink_800/0/1713490724740?e=1716422400&v=beta&t=32V1zTabcbPTMQ-R-pz0O_4pFsdjGqYyRJxIBIzgnEA"> <img alt="certificado Logica" src="https://media.licdn.com/dms/image/D4D22AQGlw-qoNwDfVA/feedshare-shrink_800/0/1713490724740?e=1716422400&v=beta&t=32V1zTabcbPTMQ-R-pz0O_4pFsdjGqYyRJxIBIzgnEA" width="259" height="183" /> </a>
+
 
 ###
