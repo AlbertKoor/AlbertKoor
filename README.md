@@ -1,15 +1,15 @@
 <h2 align="center">Hi 👋! My name is Albert Kooro and I'm a FullStack Developer Junior.</h2>
 
-<h4>Hello! I'm Albert and I'm 18, a technology enthusiast who's deeply passionate about software development. I'm actively seeking for fresh opportunities to broaden my expertise and make impactful contributions to the realm of technology.
+<h4>Olá! Meu nome é Albert, tenho 18 anos e sou um entusiasta de tecnologia profundamente apaixonado por desenvolvimento de software. Estou buscando ativamente novas oportunidades para ampliar meus conhecimentos e fazer contribuições impactantes no domínio da tecnologia.
 
  
-Lately, I'm pursuing a degree in Systems Analysis and Development at Cruzeiro do Sul University. 
+Ultimamente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
 
-Throughout my academic journey, I've cultivated a robust understanding of programming concepts and software development methodologies. Complementing my studies, I deeply engaged in online courses and personal projects to continue refining and expanding my skill set.
+Ao longo de minha jornada acadêmica, cultivei uma compreensão robusta de conceitos de programação e metodologias de desenvolvimento de software. Complementando meus estudos, me engajei profundamente em cursos online e projetos pessoais para continuar aprimorando e expandindo meu conjunto de habilidades.
 
-I'm eager to immerse myself in a vibrant and collaborative team environment, where I can learn from experient professionals and actively contribute to keep innovating projects. I'm also excited to explore to dive immersively in new opportunities or junior developer positions, in a way that I can upgrade my skills and embark on a journey of continuous knowledge, individual and professional growth.
+Estou ansioso para mergulhar em um ambiente de equipe vibrante e colaborativo, onde possa aprender com profissionais experientes e contribuir ativamente para continuar inovando projetos. Também estou animado para explorar e mergulhar de forma imersiva em novas oportunidades ou posições de desenvolvedor júnior, de forma que eu possa atualizar minhas habilidades e embarcar em uma jornada de conhecimento contínuo e crescimento individual e profissional.
 
-If you're looking for a dedicated developer who thrives on learning and embraces challenges, I'd be delighted to connect with you. Let's explore how I can bring value to your team or project!</h4>
+Se você está procurando um desenvolvedor dedicado que gosta de aprender e abraça desafios, ficarei feliz em entrar em contato com você. Vamos explorar como posso agregar valor à sua equipe ou projeto!</h4>
 
 ###
 
