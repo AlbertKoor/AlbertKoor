@@ -48,7 +48,7 @@ Se você está procurando um desenvolvedor dedicado que gosta de aprender e abra
 ###
 
 <div align="center">
-  <img height="700" src="https://private-user-images.githubusercontent.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0OTczOTksIm5iZiI6MTcxMzQ5NzA5OSwicGF0aCI6Ii83NzczOTMxMS8yNzEzODQ5MzktNGU5ZjQxYWYtNmI1Ny00OWE3LWIxNWEtNzQzMjJlOTZiNGQ3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE5VDAzMjQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5OGExNzQ2MWI3YmJmMjE1ZTY0ODg4NjEzNjI1NjIyNDEwZjY5NmE3ZDllZDBhNzRjOGQxZTQxZjg4YWIzODImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MvfBm3MapfTCJOBBlbZhOl8-hqcknEG3okyudSDWQds"  />
+  <img height="450" src="https://media.giphy.com/media/Dg4TxjYikCpiGd7tYs/giphy.gif?cid=82a1493bnf1ggg54re3z6wdll4a76kdbnyatd1l3q1n6g22y&ep=v1_gifs_trending&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
@@ -97,9 +97,8 @@ Se você está procurando um desenvolvedor dedicado que gosta de aprender e abra
 
 <h3 align="center"> Certificados </h3>
 <div align="center"> <a href="https://media.licdn.com/dms/image/D4D22AQE8J3NRUxDHxw/feedshare-shrink_800/0/1713469692572?e=1716422400&v=beta&t=XlYeYwq5hFmd_JWy3o0wKYHqBwcrQFFhE9_urO7V6h0"> <img alt="certificado JavaScript" src="https://media.licdn.com/dms/image/D4D22AQE8J3NRUxDHxw/feedshare-shrink_800/0/1713469692572?e=1716422400&v=beta&t=XlYeYwq5hFmd_JWy3o0wKYHqBwcrQFFhE9_urO7V6h0" width="259" height="183" /> </a>
-<a href="https://media.licdn.com/dms/image/D4D2DAQHhKEeBkehQVg/profile-treasury-image-shrink_800_800/0/1710215504003?e=1714107600&v=beta&t=8Z3LB6fpwguvKDbcN9dJsd0ZSj2qXuE-DBVPdEedS0c"> <img alt="certificado HTML e CSS" src="https://media.licdn.com/dms/image/D4D2DAQHhKEeBkehQVg/profile-treasury-image-shrink_800_800/0/1710215504003?e=1714107600&v=beta&t=8Z3LB6fpwguvKDbcN9dJsd0ZSj2qXuE-DBVPdEedS0c" width="259" height="183" /> </a>
-<a href="https://media.licdn.com/dms/image/D4D22AQGlw-qoNwDfVA/feedshare-shrink_800/0/1713490724740?e=1716422400&v=beta&t=32V1zTabcbPTMQ-R-pz0O_4pFsdjGqYyRJxIBIzgnEA"> <img alt="certificado Logica" src="https://media.licdn.com/dms/image/D4D22AQGlw-qoNwDfVA/feedshare-shrink_800/0/1713490724740?e=1716422400&v=beta&t=32V1zTabcbPTMQ-R-pz0O_4pFsdjGqYyRJxIBIzgnEA" width="259" height="183" /> </a>
+ <a href="https://media.licdn.com/dms/image/D4D2DAQFNMV61qTfo1g/profile-treasury-image-shrink_800_800/0/1713550677179?e=1714222800&v=beta&t=dzuxpRPv48txWl46XZcrnyvfWjsDklS8opeQNbf3-aE"> <img alt="certificado HTML e CSS" src="https://media.licdn.com/dms/image/D4D2DAQFNMV61qTfo1g/profile-treasury-image-shrink_800_800/0/1713550677179?e=1714222800&v=beta&t=dzuxpRPv48txWl46XZcrnyvfWjsDklS8opeQNbf3-aE" width="259" height="183" /> </a>
 <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-8412b34a-6a59-4d6b-9377-5780a61f92a4.jpg?v=1713505226000"> <img alt="certificado Logica" src="https://udemy-certificate.s3.amazonaws.com/image/UC-8412b34a-6a59-4d6b-9377-5780a61f92a4.jpg?v=1713505226000" width="259" height="183" /> </a>
-
+<a href="https://media.licdn.com/dms/image/D4D22AQGlw-qoNwDfVA/feedshare-shrink_800/0/1713490724740?e=1716422400&v=beta&t=32V1zTabcbPTMQ-R-pz0O_4pFsdjGqYyRJxIBIzgnEA"> <img alt="certificado Logica" src="https://media.licdn.com/dms/image/D4D22AQGlw-qoNwDfVA/feedshare-shrink_800/0/1713490724740?e=1716422400&v=beta&t=32V1zTabcbPTMQ-R-pz0O_4pFsdjGqYyRJxIBIzgnEA" width="259" height="183" /> </a>
 
 ###
