@@ -33,7 +33,7 @@ Se você está procurando um desenvolvedor dedicado que gosta de aprender e abra
   <a href="mailto:albertkoori12@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"/> </a>
   <a href="https://www.linkedin.com/in/albert-kooro/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/> </a>
   <a href="Discordapp.com/users/971225066325049415"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  /> </a>
- <a href=""> <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  /> </a>a
+ <a href=""> <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  /> </a>
 </div>
 
 ###
@@ -48,7 +48,7 @@ Se você está procurando um desenvolvedor dedicado que gosta de aprender e abra
 ###
 
 <div align="center">
-  <img height="600" src="https://private-user-images.githubusercontent.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0OTczOTksIm5iZiI6MTcxMzQ5NzA5OSwicGF0aCI6Ii83NzczOTMxMS8yNzEzODQ5MzktNGU5ZjQxYWYtNmI1Ny00OWE3LWIxNWEtNzQzMjJlOTZiNGQ3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE5VDAzMjQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5OGExNzQ2MWI3YmJmMjE1ZTY0ODg4NjEzNjI1NjIyNDEwZjY5NmE3ZDllZDBhNzRjOGQxZTQxZjg4YWIzODImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MvfBm3MapfTCJOBBlbZhOl8-hqcknEG3okyudSDWQds"  />
+  <img height="700" src="https://private-user-images.githubusercontent.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0OTczOTksIm5iZiI6MTcxMzQ5NzA5OSwicGF0aCI6Ii83NzczOTMxMS8yNzEzODQ5MzktNGU5ZjQxYWYtNmI1Ny00OWE3LWIxNWEtNzQzMjJlOTZiNGQ3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE5VDAzMjQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5OGExNzQ2MWI3YmJmMjE1ZTY0ODg4NjEzNjI1NjIyNDEwZjY5NmE3ZDllZDBhNzRjOGQxZTQxZjg4YWIzODImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MvfBm3MapfTCJOBBlbZhOl8-hqcknEG3okyudSDWQds"  />
 </div>
 
 ###
