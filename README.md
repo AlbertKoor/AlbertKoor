@@ -54,15 +54,13 @@ Se você está procurando um desenvolvedor dedicado que gosta de aprender e abra
 
 <br clear="both">
 
-<h3 align="center">Skills</h3>
+<h3 align="left">Skills</h3>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -79,14 +77,27 @@ Se você está procurando um desenvolvedor dedicado que gosta de aprender e abra
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
-  <img width="12" />
-  <a href="https://www.linkedin.com/in/albert-kooro/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="linkedin logo"  />
 </div>
+
+<br clear="both">
+
+<h3 align="left">Ferramentas</h3>
+
+###
+<br clear="both">
+<div align="left">
+ <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+ <img width="12" />
+ <a href="https://www.linkedin.com/in/albert-kooro/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="linkedin logo"  />
+ <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
+ <img width="12" />
+ <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo"  />
+ <img width="12" />
+ <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
+ <img width="12" />
+ </div>
+
+ <br clear="both">
 
 <h3 align="center">Certificados</h3>
 
