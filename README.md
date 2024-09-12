@@ -47,7 +47,7 @@ Se você está procurando um desenvolvedor dedicado que gosta de aprender e abra
 ###
 
 <div align="center">
-  <img height="450" src="https://media.giphy.com/media/Dg4TxjYikCpiGd7tYs/giphy.gif?cid=82a1493bnf1ggg54re3z6wdll4a76kdbnyatd1l3q1n6g22y&ep=v1_gifs_trending&rid=giphy.gif&ct=g"  />
+  <img height="450" src="https://private-user-images.githubusercontent.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYxNjgxNTEsIm5iZiI6MTcyNjE2Nzg1MSwicGF0aCI6Ii83NzczOTMxMS8yNzEzODQ5MzktNGU5ZjQxYWYtNmI1Ny00OWE3LWIxNWEtNzQzMjJlOTZiNGQ3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEyVDE5MDQxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3MTUxYWYwMThkNTcyYTFiNjRmMmQ2NTA3YWM1ZmJjZDFkNThlN2NhOWUzOTFhYmY1OWQ0M2ZiYzZlZDY5ZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-m0x0sAqYv_TL_cYwqaYmOMYLfOFIwPvOST1TluPsfo"  />
 </div>
 
 ###
