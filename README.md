@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋! My name is Albert Kooro and I'm a FullStack Developer Junior.</h2>
+<h2 align="center">Hi 👋! My name is Albert Kooro and I'm a FrontEnd Developer Junior.</h2>
 
 <h4>Olá! Meu nome é Albert, tenho 18 anos e sou um entusiasta de tecnologia profundamente apaixonado por desenvolvimento de software. Estou buscando ativamente novas oportunidades para ampliar meus conhecimentos e fazer contribuições impactantes no domínio da tecnologia.
 
  
-Altualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
+Altualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e Praticando na Kenzie Academy.
 
 Ao longo de minha jornada acadêmica, cultivei uma compreensão robusta de conceitos de programação e metodologias de desenvolvimento de software. Complementando meus estudos, me engajei profundamente em cursos online e projetos pessoais para continuar aprimorando e expandindo meu conjunto de habilidades.
 
