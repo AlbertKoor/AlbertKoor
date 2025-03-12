@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Albert Kooro and I'm a FrontEnd Developer Junior.</h2>
+<h2 align="center">Hi 👋! My name is Albert Kooro and I'm Developer Junior.</h2>
 
 <h4>Olá! Meu nome é Albert, tenho 18 anos e sou um entusiasta de tecnologia profundamente apaixonado por desenvolvimento de software. Estou buscando ativamente novas oportunidades para ampliar meus conhecimentos e fazer contribuições impactantes no domínio da tecnologia.
 
