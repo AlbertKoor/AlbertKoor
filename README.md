@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Albert Kooro and I'm Developer Junior.</h2>
 
-<h4>Olá! Meu nome é Albert, tenho 18 anos e sou um entusiasta de tecnologia profundamente apaixonado por desenvolvimento de software. Estou buscando ativamente novas oportunidades para ampliar meus conhecimentos e fazer contribuições impactantes no domínio da tecnologia.
+<h4>Olá! Meu nome é Albert, tenho 19 anos e sou um entusiasta de tecnologia profundamente apaixonado por desenvolvimento de software. Estou buscando ativamente novas oportunidades para ampliar meus conhecimentos e fazer contribuições impactantes no domínio da tecnologia.
 
  
 Altualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e Praticando na Kenzie Academy.
