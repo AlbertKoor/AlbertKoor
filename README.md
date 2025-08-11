@@ -38,10 +38,6 @@ Se você está procurando um desenvolvedor dedicado que gosta de aprender e abra
 ###
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AlbertKoor/count.svg?"  />
-</div>
-
 
 
 ###
@@ -97,5 +93,4 @@ Se você está procurando um desenvolvedor dedicado que gosta de aprender e abra
 
  <br clear="both">
 
-<h3 align="center">Certificados</h3>
 
