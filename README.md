@@ -20,6 +20,3 @@ Desenvolvo APIs e serviços back-end, hoje principalmente em Go e Node.js. Na Kr
 
 **[cpf-validator-api](https://github.com/AlbertKoor/cpf-validator-api)** · Go<br>
 API REST que valida CPF: aceita com ou sem máscara, confere os dígitos verificadores e retorna 400 para payload inválido.
-
-**[Portifolio-Linkedin](https://github.com/AlbertKoor/Portifolio-Linkedin)** · TypeScript<br>
-Portfólio pessoal publicado na Vercel.
